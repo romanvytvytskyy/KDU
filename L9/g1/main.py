@@ -7,4 +7,4 @@ hero2 = Hero("R2D2", 50, 50, 15, "Laser")
 hero1.print_info()
 hero2.print_info()
 
-hero1.attack(hero2)
+hero1.fight(hero2)
