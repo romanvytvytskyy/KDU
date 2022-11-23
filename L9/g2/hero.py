@@ -36,4 +36,6 @@ class Hero():
 
 class Flash(Hero):
     def print_info(self):
-        print()
+        print("New hero!!! Fast ", self.name)
+        print("His mega power ", self.power)
+        print("and lite armor", self.armor)
